@@ -1,32 +1,15 @@
 @import url(../css/bootstrap.min.css);
 
-/*GERAIS CONFIG*/
-body{
-    margin: 0;
-    padding: 0;
-}/*//GERAIS CONFIG*/
 
 
-/*BODY*/
-.cabeca{
-    display: flex;
-    background: #ffc107;
-    width: 100%vh;
+#conteiner{
+    width: 100vh;
     height: 95px;
+    
 }
 
-
-
-/*LOGO*/
-#img-logo{
-    margin-left: 202px;
-    margin-Right: 1161px;
-    width: 137px;
-    height: 48.79px;
-    margin-top: 22px;
-    margin-bottom: 24.21px;
-    
- 
+img#logo{
+    margin-left:190px; 
 }
 
 
