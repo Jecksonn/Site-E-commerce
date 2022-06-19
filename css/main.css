@@ -8,82 +8,27 @@ body{
 
 
 /*BODY*/
-.conteiner{
+.cabeca{
     display: flex;
     background: #ffc107;
     width: 100%vh;
     height: 95px;
 }
 
-.logo{
-    
-    margin-bottom: 25px;
-    margin-top: 22px;
-}
+
 
 /*LOGO*/
 #img-logo{
-    margin-left: 100px;
+    margin-left: 202px;
+    margin-Right: 1161px;
+    width: 137px;
+    height: 48.79px;
+    margin-top: 22px;
+    margin-bottom: 24.21px;
     
  
 }
 
-.busca{
-
-    width: 600px;
-}
-
-#txtBusca{
-    width: 420px;
-    height: 44px;
-    margin-left: 20px;
-    display: flex;
-    margin-top: 25.5px;
-    border-radius: 20px;
-    box-shadow: none;
-}
-
-img#btnBusca{
-
-    position: absolute;
-    margin-left: 400px;
-    margin-top: -45px;
-    opacity: 0.3;
-
-}
-
-#entrar{
-
-    display: flex;
-    justify-content: center;
-    margin-left: 300px;
-    margin-top: -32px;
-    
-}
-
-
-
-
-
-li{
-    display: inline;
-    text-decoration: none;
-    margin-right: 0px;
-    
-
-    
-}
-
-ul{
-    margin-left: 670px;
-    margin-top: -57px;
-}
-
-
-.flex{
-    width: 100%vh;
-
-}
 
 
 
